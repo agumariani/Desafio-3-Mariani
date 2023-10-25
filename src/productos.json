@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Aspirina",
+        "description": "Alivio rápido para el dolor de cabeza y fiebre",
+        "price": 5.99,
+        "thumbnail": "aspirina.jpg",
+        "code": "FARM001",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "Ibuprofeno",
+        "description": "Antiinflamatorio y analgésico",
+        "price": 7.49,
+        "thumbnail": "ibuprofeno.jpg",
+        "code": "FARM002",
+        "stock": 80
+    },
+    {
+        "id": 3,
+        "title": "Paracetamol",
+        "description": "Alivia el dolor y reduce la fiebre",
+        "price": 4.99,
+        "thumbnail": "paracetamol.jpg",
+        "code": "FARM003",
+        "stock": 120
+    },
+    {
+        "id": 4,
+        "title": "Vitamina C",
+        "description": "Suplemento de vitamina C para fortalecer el sistema inmunológico",
+        "price": 8.99,
+        "thumbnail": "vitamina_c.jpg",
+        "code": "FARM004",
+        "stock": 60
+    },
+    {
+        "id": 5,
+        "title": "Antiácido",
+        "description": "Alivia la acidez estomacal",
+        "price": 6.99,
+        "thumbnail": "antiacido.jpg",
+        "code": "FARM005",
+        "stock": 50
+    }
+]
